@@ -11,9 +11,9 @@ highlighter: pygments
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Kyle Grieger
+  email : kyle.grieger@gmail.com
+  github : KyleGrieger
   twitter : username
   feedburner : feedname
 
@@ -64,16 +64,16 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH : http://kylegrieger.github.io/blog/assets
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  archive_path: /blog/archive.html
+  categories_path : /blog/categories.html
+  tags_path : /blog/tags.html
+  atom_path : /blog/atom.xml
+  rss_path : /blog/rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
