@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Victory Lap"
-description: ""
-category: 
+description: "The story of Victory Lap"
+category: "Development"
 tags: [EatStreet, AngularJS, New York, GBeta, Facebook]
 ---
 {% include JB/setup %}
