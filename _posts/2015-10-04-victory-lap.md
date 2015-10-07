@@ -3,7 +3,7 @@ layout: post
 title: "Victory Lap"
 description: "The story of Victory Lap"
 category: Development
-tags: [EatStreet, AngularJS, New York, GBeta, Facebook]
+tags: [EatStreet, AngularJS, New York, GBeta, Facebook, UW Madison, Ionic]
 ---
 {% include JB/setup %}
 
