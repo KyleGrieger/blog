@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Badger Loop"
-description: "development"
-category: 
+description: "Badger Loop Competition"
+category: Development
 tags: [Badger Loop, Spacex, UW Madison, Ionic]
 ---
 {% include JB/setup %}
