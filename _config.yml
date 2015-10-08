@@ -100,10 +100,8 @@ JB :
   #        
   analytics :
     provider : google
-    gauges :
-        site_id : 'SITE ID'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-68614805-1'
     getclicky :
       site_id : 
     mixpanel :
