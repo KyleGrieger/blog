@@ -7,8 +7,6 @@ tags: [EatStreet, AngularJS, New York, GBeta, Facebook, UW Madison, Ionic]
 ---
 {% include JB/setup %}
 
-#Victory Lap
-
 ###Intro
 It all started when I was anxiously scrolling through Facebook as many juniors in college do when they are bored. I was about to start working at a new tech startup in Madison after my previous internship at [EatStreet](https://eatstreet.com/) ended. I got a message from someone who I had just recently met in a computer science class, [John Meurer](https://www.linkedin.com/pub/john-meurer/85/43a/6a4).  The message read:
 
